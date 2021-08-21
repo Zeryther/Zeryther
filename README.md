@@ -1,6 +1,6 @@
 # About Me
 
-My name is Mehdi, known as Zeryther on the internet. I am a German Software and Web Developer.
+My name is Mehdi, known as Zeryther on the internet. I am a Software and Web Developer from Germany.
 
 Welcome to my GitHub Profile 👋
 
