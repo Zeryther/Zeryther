@@ -23,7 +23,7 @@ This is a list of some of the technologies I like to use.
 * **Database**: [*MySQL*](https://www.mysql.com/), [*MongoDB*](https://www.mongodb.com/), [*MariaDB*](https://mariadb.org/)
 * **Systems**: [*Docker*](https://www.docker.com/), [*GitLab*](https://about.gitlab.com/), [*Debian*](https://www.debian.org/), [*Ubuntu*](https://ubuntu.com/)
 
-### Translation & Localization
+## 🏴 Translation & Localization
 
 I offer freelance Translation and Localization, primarily for Video Games for English and German. If you're interested, you can contact me at my GitHub-listed email address.
 
