@@ -1,6 +1,6 @@
 # About Me
 
-My name is Mehdi, known as Zeryther on the internet. I am a Software and Web Developer from Germany.
+My name is Mehdi, known as Zeryther on the internet. I am a Software and Web Developer from Germany, as well as a freelance Translator and Localizer.
 
 Welcome to my GitHub Profile 👋
 
@@ -22,6 +22,17 @@ This is a list of some of the technologies I like to use.
 * **Networking**: [*RabbitMQ*](https://www.rabbitmq.com/), [*Redis*](https://redis.io/)
 * **Database**: [*MySQL*](https://www.mysql.com/), [*MongoDB*](https://www.mongodb.com/), [*MariaDB*](https://mariadb.org/)
 * **Systems**: [*Docker*](https://www.docker.com/), [*GitLab*](https://about.gitlab.com/), [*Debian*](https://www.debian.org/), [*Ubuntu*](https://ubuntu.com/)
+
+### Translation & Localization
+
+I offer freelance Translation and Localization, primarily for Video Games for English and German. If you're interested, you can contact me at my GitHub-listed email address.
+
+I know the following languages:
+
+* 🇩🇪 **German**: Native
+* 🇺🇸 **English**: Fluent
+* 🇫🇷 **French**: Basic
+* 🇯🇵 **Japanese**: Basic
 
 ## 🎮 Gaming
 
