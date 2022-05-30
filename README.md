@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=symfony,php,kotlin,java,ts,js,aws,azure,cloudflare,firebase,webpack,sass,html,tailwind,bootstrap,css,bash,discord,bots,docker,dynamodb,github,gitlab,heroku,idea,jquery,kubernetes,linkedin,linux,md,mongodb,mysql,nginx,nodejs,powershell,react,redis,vscode,wordpress,workers" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=symfony,php,kotlin,java,ts,js,aws,azure,cloudflare,firebase,webpack,react,vue,sass,html,tailwind,bootstrap,css,bash,discord,bots,docker,dynamodb,github,gitlab,heroku,idea,jquery,kubernetes,linkedin,linux,md,mongodb,mysql,nginx,nodejs,powershell,redis,vscode,wordpress,workers" />
 </p>
 
 # About Me
