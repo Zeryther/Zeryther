@@ -16,7 +16,7 @@
   <a href="https://twitter.com/Zeryther" target="_blank">
     <img src="https://img.shields.io/badge/-@Zeryther-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://anilist.co/Zeryther" target="_blank">
+  <a href="https://anilist.co/user/Zeryther" target="_blank">
     <img src="https://img.shields.io/badge/-Zeryther-%23152232.svg?style=for-the-badge&logo=AniList&logoColor=white" alt="AniList" />
   </a>
   <a href="https://nxapi-presence.fancy.org.uk/api/presence/b329ad989d7c8e77?include-splatoon3=1" target="_blank">
