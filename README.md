@@ -24,6 +24,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@c4595f74-9664-48a7-a2bd-23db110521eb"><img src="https://wakatime.com/badge/user/c4595f74-9664-48a7-a2bd-23db110521eb.svg" alt="Total time coded since Jul 6 2024" /></a>
+</p>
+
 <details>
   <summary>GitHub Statistics</summary>
   
